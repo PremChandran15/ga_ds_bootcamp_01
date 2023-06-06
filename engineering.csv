@@ -1,0 +1,31 @@
+,Recombined Total Fluid Composition (GPA 2261-95 & IP 344-88 ),Unnamed: 0
+0,Dry Composition,Wet Composition
+1,Component Trend,
+2,Mole % Mass %,Mole % Mass%
+3,Nitrogen 0 0 -,0 0
+4,Methane 11.8 2.08 -,11.7 2.08
+5,Carbon Dioxide 1.56 0.74 -,1.59 0.74
+6,Ethane 3.58 1.19 -,3.58 1.15
+7,Propane 4.67 2.22 -,4.7 2.26
+8,iso-Butane 2.31 1.43 -,2.27 1.46
+9,n-Butane 2.97 1.86 -,2.96 1.83
+10,iso-Pentane 2.65 2.07 -,2.62 2.07
+11,n-Pentane 2.1 1.58 -,2.07 1.57
+12,C6+ 68.36 86.83 -,68.28 86.83
+13,Totals 100 100,99.77 99.99
+14,Results Units,Trend
+15,Produced Water 0.05 % Mole,-
+16,Produced Water 0.01 % Mass,-
+17,Gross Heating Value @,
+18,46.914 MJ•kg-1,-
+19,15°C,
+20,Liquid Phase Mass Fraction 0.9045 -,-
+21,Gas Phase Mass Fraction 0.0955 -,-
+22,Dry Fluid Physical Properties (Calculated ),
+23,Total C6+ Pseudo,
+24,Fluid Trend Component,Trend Stock Tank
+25,"Density @ 15°C, kg m-3 736 - 790.4",- 778.9
+26,API Gravity @ 60°F 60.58 - 47.34,- 49.99
+27,"Molecular Weight, kg•kmole-1 107 - 118",- 115
+28,"Produced Water Density @ 15°C, kgm - 3 (ASTM D 4052-96) -",
+29,"Water + Sediment Content, % Volume (Calculated*) -",
